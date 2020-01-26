@@ -28,6 +28,7 @@ if user inputs 8 - the api will return :
 
 To perform this task:
 
+      create a database on 'phpmyadmin' and import the given/uploaded database (if you haven't)
       go to file path (eg:- D:\Techweirdo)
       write 'cmd' + ENTER to open command prompt
       write python solution.py <-ENTER
