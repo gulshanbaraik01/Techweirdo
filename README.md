@@ -26,6 +26,30 @@ if user inputs 8 - the api will return :
 
 =======================================================================================
 
+To perform this task:
+
+      go to file path (eg:- D:\Techweirdo)
+      write 'cmd' + ENTER to open command prompt
+      write python solution.py <-ENTER
+      
+      this will open=>
+      
+            * Serving Flask app "solution" (lazy loading)
+            * Environment: production
+            WARNING: This is a development server. Do not use it in a production deployment.
+            Use a production WSGI server instead.
+            * Debug mode: on
+            * Restarting with stat
+            * Debugger is active!
+            * Debugger PIN: 338-800-808
+            * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+            
+      copy this link and paste it on browser(Chrome, Mozilla etc.) like=>
+      
+            http://127.0.0.1:5000/?id=8  ->ENTER
+            
+      You will get the solution...
+
 important modules:
       
       pip install mysql-connector
